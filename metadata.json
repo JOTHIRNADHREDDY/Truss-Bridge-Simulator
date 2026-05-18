@@ -1,0 +1,5 @@
+{
+  "name": "Remix: Truss Bridge Simulator",
+  "description": "Interactive truss bridge stress simulator using Method of Joints and Direct Stiffness Method.",
+  "requestFramePermissions": []
+}
